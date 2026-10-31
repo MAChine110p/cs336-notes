@@ -26,8 +26,8 @@ CS336 是一门"从零构建语言模型"的高强度实践课：实现分词器
 
 | # | 主题 | 笔记 | 覆盖时长 |
 |---|---|---|---|
-| L01 | 课程概览与分词（Course Overview & Tokenization） | [L01_课程概览与分词](lectures/L01_课程概览与分词.md) | 0:04 – 55:12 |
-| L02 | 资源核算与张量基础（Resource Accounting / PyTorch / einops） | [L02_资源核算与张量基础](lectures/L02_资源核算与张量基础.md) | 0:04 – 50:50 |
+| L01 | 课程概览与分词（Course Overview & Tokenization） | [CS336 L1](lectures/CS336%20L1.md) | 0:04 – 55:12 |
+| L02 | 资源核算与张量基础（Resource Accounting / PyTorch / einops） | [CS336 L2](lectures/CS336%20L2.md) | 0:04 – 50:50 |
 
 > 后续讲次陆续补充。
 

@@ -19,3 +19,6 @@ desktop.ini
 *.tmp
 *.bak
 *.log
+
+# 本地推送脚本（含本机路径，不公开）
+push.sh
